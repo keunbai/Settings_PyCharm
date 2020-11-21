@@ -2,5 +2,13 @@
   <action id="ChooseRunConfiguration">
     <keyboard-shortcut first-keystroke="f5" />
   </action>
+  <action id="Console.Execute.Multiline" />
   <action id="CopyElement" />
+  <action id="DirDiffMenu.SynchronizeDiff.All" />
+  <action id="EditorSplitLine" />
+  <action id="ExecuteInPyConsoleAction">
+    <keyboard-shortcut first-keystroke="ctrl enter" />
+  </action>
+  <action id="Terminal.SmartCommandExecution.Run" />
+  <action id="ViewSource" />
 </keymap>

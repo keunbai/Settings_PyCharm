@@ -1,0 +1,6 @@
+<keymap version="1" name="GNOME copy" parent="Default for GNOME">
+  <action id="ChooseRunConfiguration">
+    <keyboard-shortcut first-keystroke="f5" />
+  </action>
+  <action id="CopyElement" />
+</keymap>

@@ -3,7 +3,7 @@
     <property name="created">2020-11-23T10:19:07</property>
     <property name="ide">PyCharmCore</property>
     <property name="ideVersion">2020.2.3.0.0</property>
-    <property name="modified">2020-11-23T11:08:28</property>
+    <property name="modified">2020-11-23T11:24:11</property>
     <property name="originalScheme">Monokai</property>
   </metaInfo>
   <colors>
@@ -413,7 +413,7 @@
     </option>
     <option name="DEFAULT_BLOCK_COMMENT">
       <value>
-        <option name="FOREGROUND" value="75715e" />
+        <option name="FOREGROUND" value="b4edae" />
       </value>
     </option>
     <option name="DEFAULT_BRACES" baseAttributes="" />
@@ -1148,7 +1148,7 @@
     </option>
     <option name="PY.DOC_COMMENT">
       <value>
-        <option name="FOREGROUND" value="75715e" />
+        <option name="FOREGROUND" value="d0d62a" />
       </value>
     </option>
     <option name="PY.FUNC_DEFINITION">
@@ -1168,9 +1168,14 @@
         <option name="FONT_TYPE" value="2" />
       </value>
     </option>
+    <option name="PY.KEYWORD_ARGUMENT">
+      <value>
+        <option name="FOREGROUND" value="ec7a50" />
+      </value>
+    </option>
     <option name="PY.LINE_COMMENT">
       <value>
-        <option name="FOREGROUND" value="75715e" />
+        <option name="FOREGROUND" value="a9b3a9" />
       </value>
     </option>
     <option name="PY.NUMBER">
@@ -1595,7 +1600,7 @@
     </option>
     <option name="TEXT">
       <value>
-        <option name="FOREGROUND" value="f8f8f2" />
+        <option name="FOREGROUND" value="ffffff" />
         <option name="BACKGROUND" value="272822" />
       </value>
     </option>

@@ -1,4 +1,10 @@
 <keymap version="1" name="Windows copy" parent="$default">
+  <action id="ActivatePythonConsoleToolWindow">
+    <keyboard-shortcut first-keystroke="alt 8" />
+  </action>
+  <action id="ActivateTerminalToolWindow">
+    <keyboard-shortcut first-keystroke="alt t" />
+  </action>
   <action id="ChooseRunConfiguration">
     <keyboard-shortcut first-keystroke="ctrl f5" />
   </action>

@@ -1,6 +1,12 @@
 <keymap version="1" name="GNOME copy" parent="Default for GNOME">
+  <action id="ActivatePythonConsoleToolWindow">
+    <keyboard-shortcut first-keystroke="alt 8" />
+  </action>
+  <action id="ActivateTerminalToolWindow">
+    <keyboard-shortcut first-keystroke="alt t" />
+  </action>
   <action id="ChooseRunConfiguration">
-    <keyboard-shortcut first-keystroke="f5" />
+    <keyboard-shortcut first-keystroke="ctrl f5" />
   </action>
   <action id="Console.Execute.Multiline" />
   <action id="CopyElement" />

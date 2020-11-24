@@ -2,6 +2,9 @@
   <action id="ActivatePythonConsoleToolWindow">
     <keyboard-shortcut first-keystroke="alt 8" />
   </action>
+  <action id="ActivateServicesToolWindow">
+    <keyboard-shortcut first-keystroke="alt 9" />
+  </action>
   <action id="ActivateTerminalToolWindow">
     <keyboard-shortcut first-keystroke="alt t" />
   </action>
@@ -27,7 +30,9 @@
   <action id="Run">
     <keyboard-shortcut first-keystroke="f5" />
   </action>
-  <action id="Terminal.SmartCommandExecution.Run" />
+  <action id="Terminal.SmartCommandExecution.Run">
+    <keyboard-shortcut first-keystroke="alt 4" />
+  </action>
   <action id="Vcs.Log.Refresh" />
   <action id="Vcs.RefreshFileHistory" />
   <action id="ViewSource" />

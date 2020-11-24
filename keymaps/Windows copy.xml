@@ -27,7 +27,9 @@
   <action id="Run">
     <keyboard-shortcut first-keystroke="f5" />
   </action>
-  <action id="Terminal.SmartCommandExecution.Run" />
+  <action id="Terminal.SmartCommandExecution.Run">
+    <keyboard-shortcut first-keystroke="alt 4" />
+  </action>
   <action id="Vcs.Log.Refresh" />
   <action id="Vcs.RefreshFileHistory" />
   <action id="ViewSource" />

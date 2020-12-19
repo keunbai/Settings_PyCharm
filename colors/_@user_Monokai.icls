@@ -3,7 +3,7 @@
     <property name="created">2020-11-23T10:19:07</property>
     <property name="ide">PyCharmCore</property>
     <property name="ideVersion">2020.2.3.0.0</property>
-    <property name="modified">2020-11-24T21:28:17</property>
+    <property name="modified">2020-11-24T18:00:13</property>
     <property name="originalScheme">Monokai</property>
   </metaInfo>
   <colors>
@@ -1148,7 +1148,7 @@
     </option>
     <option name="PY.DOC_COMMENT">
       <value>
-        <option name="FOREGROUND" value="d0d62a" />
+        <option name="FOREGROUND" value="d2e186" />
       </value>
     </option>
     <option name="PY.FUNC_DEFINITION">
@@ -1180,12 +1180,12 @@
     </option>
     <option name="PY.NUMBER">
       <value>
-        <option name="FOREGROUND" value="ae81ff" />
+        <option name="FOREGROUND" value="82d86f" />
       </value>
     </option>
     <option name="PY.OPERATION_SIGN">
       <value>
-        <option name="FOREGROUND" value="f3edef" />
+        <option name="FOREGROUND" value="f3f2ef" />
       </value>
     </option>
     <option name="PY.PREDEFINED_DEFINITION" baseAttributes="DEFAULT_PREDEFINED_SYMBOL" />
@@ -1197,6 +1197,11 @@
     <option name="PY.STRING">
       <value>
         <option name="FOREGROUND" value="e6db74" />
+      </value>
+    </option>
+    <option name="PY.STRING.U">
+      <value>
+        <option name="FOREGROUND" value="9ce674" />
       </value>
     </option>
     <option name="PY.VALID_STRING_ESCAPE">

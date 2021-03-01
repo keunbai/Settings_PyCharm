@@ -1,0 +1,9 @@
+<toolSet name="External Tools">
+  <tool name="pylint" description="pylint as an external tool" showInMainMenu="false" showInEditor="false" showInProject="false" showInSearchPopup="false" disabled="false" useConsole="true" showConsoleOnStdOut="false" showConsoleOnStdErr="false" synchronizeAfterRun="true">
+    <exec>
+      <option name="COMMAND" value="D:\Miniconda3\pkgs\pylint-2.7.1-py36haa95532_1\Scripts\pylint.exe" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="D:/Miniconda3/pkgs/pylint-2.7.1-py36haa95532_1/Scripts" />
+    </exec>
+  </tool>
+</toolSet>
